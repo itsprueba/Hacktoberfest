@@ -17,7 +17,7 @@ Step 3: Open cmd
 
 Step 4: ```git clone <forked url>```
   
-Step 5: ```cd <hacktoberfest-cont>```
+Step 5: ```cd <Hacktoberfest>```
   
 Step 6: ```git pull```
 

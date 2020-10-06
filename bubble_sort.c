@@ -22,7 +22,7 @@ printf("%d\t",a[i]);
 void bubble(int ar[])
 
 {
-	
+	int lol;
 int i,j,c;
 	
 for(i=0;i<9;i++)

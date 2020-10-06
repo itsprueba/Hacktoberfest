@@ -12,7 +12,7 @@ for snack in fruit:
 # 
 here lemon is a key as a dictionary can be accesed using a key
 # 
-bike = {"make": "Honda", "model": "250 dream", "colour": "red", "engine_size": 250}
+bike = {"make": "Honda", "model": "250 dream", "colour": "red Vodka", "engine_size": 250}
 print(bike["engine_size"])
 print(bike["colour"])
 # 

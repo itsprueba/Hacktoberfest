@@ -25,7 +25,7 @@ Step 7: ```git checkout -b [name_of_your_new_branch]```
 
 Step 8: ```git branch -a```
 
-Step 9: change the files in code which you want to change
+Step 9: change the files in code which you want to change for your own sake.
 
 Step 10: ```git add .```
 

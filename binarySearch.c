@@ -1,4 +1,4 @@
-#include<Cconio.h>
+#include<conio.h>
 #include <stdio.h>
 void search();
 int arr[100], n, number, loc, beg, mid, end, i;
@@ -9,7 +9,7 @@ int main(){
     for(i=0; i<n; i++){
         scanf("%d", &arr[i]);
 	}
-    printf("\nEnter number to be searched: ");
+    printf("\nEnter number to be searchedin the console: ");
     scanf("%d", &number); 
     search();
     getchar();

@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include < conio.h>
 void search();
 int arr[100], n, number, loc, beg, mid, end, i;
 int main(){

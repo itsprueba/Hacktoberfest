@@ -139,6 +139,7 @@ UPDATE TWO DICTIONARIES OR JOINING TWO DICTIONARIES
 # print(fruit)
 it will return none vale
 # 
+#
 # print(fruit.update(veg))
 # print(fruit)
 # 

@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<bits/stdc++.h>
 void quicksort(int number[25],int first,int last){
    int i, j, pivot, temp;
 

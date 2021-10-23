@@ -2,9 +2,7 @@
 
 #include<stdio.h>
 #include<stdbool.h> 
-
 #define INF 9999999
-
 
 #define V 5
 

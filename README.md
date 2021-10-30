@@ -51,4 +51,4 @@ Step 4: Check your progress from here.
 Step 5: Digital ocean will ask for shipping address via email.
 Step 6: Wait for that awesome Hacktoberfest t-shirt from Github & Digital Ocean.
 
-Finally Happy Hactoberfest Day!
+Finally Happy Hactoberfest Day :)

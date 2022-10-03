@@ -34,5 +34,5 @@ def magic_square(n):
         for j in range(n):
             print(magicsquare[i][j],end=" ")
         print()
-    print("The sum of each row/column/diagolnal is: "+str(n*(n**2+1)/2))
+    print("The sum of each row / column/diagolnal is: "+str(n*(n**2+1)/2))
 magic_square(3)        

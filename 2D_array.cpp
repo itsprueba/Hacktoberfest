@@ -37,7 +37,7 @@ using namespace std;
 
 
               if(sum<temp)
-              sum=temp;
+              sum= temp ;
 
               f=1;//exit condition
               }//whiel loop of test variable

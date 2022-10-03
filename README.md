@@ -38,7 +38,8 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
 How to participate?
 You just need to make five contributions to open source before October 31 and can receive a free Hacktoberfest t-shirt.
 
-2021 and 2022 Hactoberfest tshirts
+2022 Hactoberfest Tshirts
+
 How can a beginner participate?
 For beginners, they are saying that you could make contributions to documentation for some projects. But this also needs some level of effort. When I heard about Hacktoberfest, I just registered and leave it there without doing any contributions. But then I go through the list projects I find out some too easy projects to contribute to. So I`m listing here four Github repositories anyone can contribute to, it’s too easy, you just need to add your Github profile name etc in their readme file. Some of them have instructions on how to contribute. So let’s do it.
 Step 1: Register or login to github.com

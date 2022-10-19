@@ -62,4 +62,4 @@ It's hard. It's always hard the first time you do something. Especially when you
 5. Post successful submission of 4 PR and accepted by respective projet owners , and Digital ocean conisiders it as valid contributions, Digital ocean will ask for shipping address via email to send you the goodies.
 6. Wait for that awesome Hacktoberfest t-shirt from Github & Digital Ocean.
 
-Finally Happy Hactoberfest Day :)
+Finally Happy Hactoberfesting :)

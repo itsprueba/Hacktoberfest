@@ -1,0 +1,16 @@
+#include <math.h>
+#include <stdio.h>
+
+int main() {
+    double a, b, result;
+    printf("Enter a base number: ");
+    scanf("%lf", &a);
+    printf("Enter an exponent: ");
+    scanf("%lf", &b);
+
+    // calculates the power
+    result = pow(a, b);
+
+    printf("%.1lf^%.1lf = %.2lf", a,b, result);
+    return 0;
+}

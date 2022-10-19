@@ -18,7 +18,7 @@ class Codechef
 		        if (a > b) {
 		            a = a / 2;
 		        }
-		        else if (b > a) {
+		        else if (b>a) {
 		            b = b / 2;
 		        }
 		        ans++;

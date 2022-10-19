@@ -40,10 +40,9 @@ struct node* insert(struct node* node, int key)
 
 	/* Otherwise, recur down the tree */
 	if (key < node->key)
-		node->left = insert(node->left, key);
+		node->left = insert(node->left,key);
 	else if (key > node->key)
-		node->right = insert(node->right, key);
-
+		node->right = insert(node->right,key);
 	/* return the (unchanged) node pointer */
 	return node;
 }

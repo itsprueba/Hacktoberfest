@@ -96,7 +96,7 @@ def right_rotation(node: my_node) -> my_node:
         Bl  Br                 UB Br  C
        /
      UB
-    UB = unbalanced node
+    UB = Unbalanced node
     """
     print("left rotation node:", node.get_data())
     ret = node.get_left()

@@ -14,6 +14,6 @@ int sum(inta)
 	s=a+sum(a-1);
 	return(s);
 	}
-	s=a+sum(a-1);
+	s = a+sum(a-1);
 	return(s);
 }

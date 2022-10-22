@@ -4,7 +4,7 @@ from pyzbar.pyzbar import decode
 Qr={}
 sort_key={}
 sort_dict={}
-img=cv2.imread("V:/eYentr@/task-1/PB_Task1_Windows/Task1B/public_test_cases/qr_1.png")
+img=cv2.imread("--")#add path to the image.
 data =decode(img)
 for code in data:
 	centre_x=int((code.polygon[0][0]+code.polygon[2][0])/2)
